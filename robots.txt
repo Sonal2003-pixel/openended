@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Sonal2003-pixel.github.io/tripillar-solutions-devops/sitemap.xml
